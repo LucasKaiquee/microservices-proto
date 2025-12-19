@@ -1,4 +1,4 @@
-module github.com/LucasKaiquee/microservices-proto/golang/order
+module github.com/LucasKaiquee/microservices-proto/golang/payment
 
 go 1.25.1
 
